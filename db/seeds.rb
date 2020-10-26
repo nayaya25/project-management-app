@@ -10,4 +10,4 @@
 #     { is_admin: true },
 #     { password: 'password' }
 #     ])
-User.create(id: 2, first_name: 'Luke', last_name: 'Lord of the Rings', email: 'admin@admin.com', is_admin: true, password: 'password')
+User.create(id: 1, first_name: 'Ibrahim', last_name: 'Bashir', email: 'admin@example.com', is_admin: true, password: 'password')
